@@ -1,0 +1,42 @@
+_repo: The-Quest-of-the-Golden-Hope---A-Seventeenth-Century-Story-of-Adventure_38222
+_version: 0.1.0
+alternative_title: 'The Quest of the ''Golden Hope'': A 17th Century Story of Adventure'
+contributor:
+  illustrator:
+    agent_name: Wiles, Frank
+    aliases:
+    - Wiles, Frank E.
+    - Wiles, Francis Edmund
+    birthdate: 1881
+    deathdate: 1963
+    gutenberg_agent_id: '24840'
+    url: http://www.gutenberg.org/2009/agents/24840
+covers:
+- cover_type: archival
+  image_path: 38222-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Britain -- History -- James II, 1685-1688 -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Quest of the ''Golden Hope'': A Seventeenth Century Story of Adventure'
+url: http://www.gutenberg.org/ebooks/38222
