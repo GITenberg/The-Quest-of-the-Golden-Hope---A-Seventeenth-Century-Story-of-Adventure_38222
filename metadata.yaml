@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38222#The-Quest-of-the-Golden-Hope---A-Seventeenth-Century-Story-of-Adventure
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-04'
 gutenberg_type: Text
